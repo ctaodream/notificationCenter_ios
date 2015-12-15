@@ -1,0 +1,2 @@
+# notificationCenter_ios
+项目中如果需要用到通知的都可以用这个代替
